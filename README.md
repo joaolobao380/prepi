@@ -3,6 +3,9 @@
  
  Criar um database chamado "prepi".
  
+ No arquivo knexfile:
+ mudar o nome e senha do banco de dados.
+ 
  Para executar o servidor backend.
  npm install
  npm run dev 
@@ -13,6 +16,8 @@
   Para executar o projeto: 
    npm install
    react-native run-android.
+   
+   
  
  
  
