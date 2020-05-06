@@ -10,9 +10,11 @@
  npm install
  npm run dev 
  
+ -FRONTEND 
+ 
  Para executar via localhost:
   modifique o arquivo "commom" e coloque o ip de sua maquina.
-  
+
   Para executar o projeto: 
    npm install
    react-native run-android.
