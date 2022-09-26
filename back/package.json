@@ -22,7 +22,7 @@
     "mysql2": "^2.0.1",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
-    "pm2": "^4.2.3",
+    "pm2": "^5.2.0",
     "react-native-crypto": "^2.2.0",
     "react-native-randombytes": "^3.5.3",
     "socket.io": "^2.3.0"
