@@ -21,7 +21,7 @@
     "moment": "^2.24.0",
     "mysql2": "^2.0.1",
     "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0",
+    "passport-jwt": "^4.0.1",
     "pm2": "^4.2.3",
     "react-native-crypto": "^2.2.0",
     "react-native-randombytes": "^3.5.3",
